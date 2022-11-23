@@ -1,7 +1,7 @@
 const HomeComponent = () => {
     return(
         <div>
-            This is a Home Page
+            Hi Folks, I am from the Home Component
         </div>
     )
 }
